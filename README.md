@@ -5,13 +5,18 @@
         - versao do vscode
         - versao do java
         - versao do netbeans (verificar)
-    - intro sobre o curso em video
-        - carga horaria
-        - quantidade de videos
+    - ~~intro sobre o curso em video~~
+        - ~~carga horaria~~
+        - ~~quantidade de videos~~
     - intro sobre POO
     - intro sobre o SENAC e a materia de POO
 - criar sumario com links
 - criar tag de evolucao do curso (curso em video)
+
+
+
+
+---
 
 ## Curso de POO Java (Programação Orientada a Objetos) - [Curso em Vídeo Youtube](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 

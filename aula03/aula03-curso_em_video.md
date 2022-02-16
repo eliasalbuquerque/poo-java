@@ -23,3 +23,6 @@ São utilizado simbolos em UML para identificar os modificadores de visibilidade
 - *Protect*: #
 
 
+Como exercício, foi trabalhado diversas combinações de visibilidade dos atributos e métodos da classe *Caneta* e observado a resposta do programa ao tentar alterar valores ou acessar os atributos.
+
+Para finalizar o exercício, um dos atributos ficou como *private* e o método da própria classe como *public*, para mostrar que somente a classe em questão tem acesso ao modificador privado.
