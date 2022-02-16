@@ -13,70 +13,76 @@
 - criar sumario com links
 - criar tag de evolucao do curso (curso em video)
 
+## Curso de POO Java (Programação Orientada a Objetos) - [Curso em Vídeo Youtube](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
+
+<!-- [link do curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) -->
+<!-- - intro sobre o curso em video -->
+Curso completo de Programação Orientada a Objetos (POO) com a linguagem Java. Aborda os principais conceitos como Classes, Objetos, instanciamento, abstração, encapsulamento, herança, polimorfismo e muito mais. Criado pelo professor Gustavo Guanabara para o Curso em Vídeo.
 
 
-## Conteúdo:
+> 32 vídeos.
+> 
+> Carga horaria: 12h.
 
-Aula 01 - 
 
-Aula 02 - 
+### Conteúdo:
 
-Aula 03 - O que é Visibilidade em um Objeto?
+01a - What is Object Oriented Programming
 
-Aula 04 - 
+01b - Instalando o JDK e NetBeans
 
-Aula 05 - 
+02a - O que é um Objeto?
 
-Aula 06 - 
+02b - Criando Classes e Objetos em Java
 
-Aula 07 - 
+03a - O que é Visibilidade em um Objeto?
 
-Aula 08 - 
+03b - Configurando Visibilidade de Atributos e Métodos
 
-Aula 09 - 
+04a - Métodos Especiais
 
-Aula 10 - 
+04b - Métodos Getter, Setter e Construtor
 
-Aula 11 - 
+05a - Exemplo Prático com Objetos
 
-Aula 12 - 
+05b - Exemplo Prático em Java
 
-Aula 13 - 
+06a - Pilares da POO: Encapsulamento
 
-Aula 14 - 
+06b - Encapsulamento
 
-Aula 15 - 
+07a - Relacionamento entre Classes
 
-Aula 16 - 
+07b - Objetos Compostos em Java
 
-Aula 17 - 
+08a - Relacionamento de Agregação
 
-Aula 18 - 
+08b - Agregação entre Objetos com Java
 
-Aula 19 - 
+09 - Exercícios de POO
 
-Aula 20 - 
+09b - Exercício prático POO em Java
 
-Aula 21 - 
+10a - Herança (Parte 1)
 
-Aula 22 - 
+10b - Herança (Parte 1)
 
-Aula 23 - 
+11a - Herança (Parte 2)
 
-Aula 24 - 
+11b - Herança (Parte 2)
 
-Aula 25 - 
+12a - Conceito Polimorfismo (Parte 1)
 
-Aula 26 - 
+12b - Polimorfismo em Java (Parte 1)
 
-Aula 27 - 
+13a - Conceito Polimorfismo (Parte 2)
 
-Aula 28 - 
+13b - Polimorfismo Sobrecarga (Parte 2)
 
-Aula 29 - 
+14a - Exercícios de POO (Parte 2)
 
-Aula 30 - 
+14b - Projeto Final em Java (Parte 1)
 
-Aula 31 - 
+15a - Exercícios de POO (Parte 3)
 
-Aula 32 - 
+15b - Projeto Final em Java (Parte 2)
