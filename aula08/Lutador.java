@@ -1,6 +1,6 @@
 package aula08;
 
-public class Lutador implements Controlador {
+public class Lutador {
 
     // atributos
     private String nome, nacionalidade, categoria;
@@ -70,7 +70,7 @@ public class Lutador implements Controlador {
         setCategoria( );
     }
 
-    private String getCategoria() {
+    public String getCategoria() {
         return this.categoria;
     }
 
@@ -111,10 +111,9 @@ public class Lutador implements Controlador {
     public void setEmpates(int empates) {
         this.empates = empates;
     }
-
+    
 
     // metodos abstratos
-    @Override
     public void apresentar() {
         System.out.println("-----------------------------------");
         System.out.println("Lutador: " + this.getNome());
@@ -127,26 +126,18 @@ public class Lutador implements Controlador {
         System.out.println("Empatou: " + this.getEmpates() + " vezes");
     }
 
-
-    @Override
     public void empatarLuta() {
         this.setEmpates(this.getEmpates() + 1);
     }
 
-
-    @Override
     public void ganharLuta() {
         this.setVitorias(this.getVitorias() + 1);
     }
 
-
-    @Override
     public void perderLuta() {
         this.setDerrotas(this.getDerrotas() + 1);
     }
 
-
-    @Override
     public void status() {
         System.out.println("-----------------------------------");
         System.out.print(this.getNome());
