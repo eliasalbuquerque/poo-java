@@ -4,7 +4,7 @@ De acordo com o diagrama proposto, monte o programa a seguir e suas respectivas 
 
 <!-- ![Diagrama UML do Exercício. Fonte: Curso em Vídeo (Youtube)](https://github.com/eliasalbuquerque/poo-java/blob/main/aula09/diagramaUML.png "Curso em Vídeo") -->
 
-![diagramaUML](https://user-images.githubusercontent.com/78819295/155617840-773b9e90-4d1f-4d02-99f6-79a441074edb.png)
+![diagramaUML](https://user-images.githubusercontent.com/78819295/155617840-773b9e90-4d1f-4d02-99f6-79a441074edb.png "Curso em Vídeo")
 
 
 ### Passo a passo:
