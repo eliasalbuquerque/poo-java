@@ -7,18 +7,20 @@ De acordo com o diagrama proposto, monte o programa a seguir e suas respectivas 
 
 ### Passo a passo:
 
-- Criar as classes: Pessoa, Livro
+- Criar as classes: Pessoa e Livro
 - Criar a interface: Publicacao
-- A Interface Publicacao deve *publica* do tipo *abstract*
+- A Interface Publicacao deve ser *publica* do tipo *abstract*
 - Na Clase Pessoa:
     - Montar atributos *privados*
     - Montar o *Construtor Pessoa* (nome, idade, sexo) 
     - Getters e Setters
+    - O metodo *fazerAniver( )* náo é necessário implementar no projeto
 - Na Classe Livro
     - Montar atributos *privados* + atributo *leitor* da Classe Pessoa
     - Montar o *Construtor Livro* (titulo, autor... etc.) 
         - o livro sempre comeca *fechado*
         - a pag atual sempre inicia em zero
     - Getters e Setters
+    - No metodo *detalhes( )* apresentar todas as informacoes do livro, inclusive quem os lê
     - Escrever os metodos abstratos
-        - no metodo *folhear( )* é esperado um valor de pag como parametro
+        - no metodo *folhear( )* é esperado um valor de página como parametro
