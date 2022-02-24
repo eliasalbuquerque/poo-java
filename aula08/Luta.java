@@ -2,6 +2,8 @@ package aula08;
 
 import java.util.Random;
 
+
+
 public class Luta {
     // atributos
     private Lutador desafiado;
