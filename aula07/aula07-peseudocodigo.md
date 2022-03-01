@@ -47,8 +47,8 @@ Classe Lutador
 
 # Interface
 
-public Metodo apresentar()
-public Metodo status()
-public Metodo ganharLuta()
-public Metodo perderLuta()
-public Metodo empatarLuta()
+    public Metodo apresentar()
+    public Metodo status()
+    public Metodo ganharLuta()
+    public Metodo perderLuta()
+    public Metodo empatarLuta()
