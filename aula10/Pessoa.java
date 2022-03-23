@@ -11,7 +11,7 @@ public class Pessoa {
 
     @Override
     public String toString() {
-        return "Pessoa [idade=" + idade + ", nome=" + nome + ", sexo=" + sexo + "]";
+        return "Pessoa [nome=" + nome + ", idade=" + idade + ", sexo=" + sexo + "]";
     }
 
 
@@ -39,3 +39,4 @@ public class Pessoa {
         this.idade = idade;
     }    
 }
+

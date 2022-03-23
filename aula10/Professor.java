@@ -26,3 +26,4 @@ public class Professor extends Pessoa {
         this.salario = salario;
     }    
 }
+

@@ -26,4 +26,5 @@ public class Aluno extends Pessoa{
     public void setCurso(String curso) {
         this.curso = curso;
     }    
+    
 }
